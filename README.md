@@ -1,2 +1,7 @@
 # Primers
-Rscript for RStudio Primers
+Rscript for RStudio Primers (Six topics)
+
+
+
+
+
